@@ -5,7 +5,7 @@ class Contact extends Component {
     return (
       <div>
         <h2>Do You Have ANY Question for me?!</h2>
-        <p>Looking out to Catching Up With Me..<a href="https://github.com/OfficialJamesUsiu/">Visit my GITHUB</a>.
+        <p>Looking out to Catching Up With Me..<a href="https://github.com/OfficialJamesUsiu/">Visit My Github Account</a>.
         </p>
       </div>
     );
